@@ -1,0 +1,1 @@
+from .yogurt_exceptions import YogurtWrongPasswordException

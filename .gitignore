@@ -127,7 +127,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Wallet Pickle Files
-wallets/*.pickle
+# Wallet Files
+wallets/
 
 # End of https://www.gitignore.io/api/python
